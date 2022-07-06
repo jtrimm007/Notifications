@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NotificationsModule</id>
+    <version>1.0.0</version>
+    <authors>NotificationsModule</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Identity.UI" version="3.1.3" exclude="Build,Analyzers" />
+        <dependency id="Twilio" version="5.39.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\bin\Debug\netcoreapp3.1\NotificationsModule.dll" target="lib\netcoreapp3.1\NotificationsModule.dll" />
+  </files>
+</package>

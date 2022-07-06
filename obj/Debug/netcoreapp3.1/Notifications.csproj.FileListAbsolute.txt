@@ -1,0 +1,10 @@
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\bin\Debug\netcoreapp3.1\Notifications.deps.json
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\bin\Debug\netcoreapp3.1\Notifications.dll
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\bin\Debug\netcoreapp3.1\Notifications.pdb
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\Notifications.csproj.AssemblyReference.cache
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\Notifications.GeneratedMSBuildEditorConfig.editorconfig
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\Notifications.AssemblyInfoInputs.cache
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\Notifications.AssemblyInfo.cs
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\Notifications.csproj.CoreCompileInputs.cache
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\Notifications.dll
+F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\Notifications.pdb
