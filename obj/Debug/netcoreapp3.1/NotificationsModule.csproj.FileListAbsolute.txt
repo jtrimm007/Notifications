@@ -8,3 +8,13 @@ F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3
 F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.csproj.CoreCompileInputs.cache
 F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.dll
 F:\Glip-Glop\Dropbox (Personal)\TrimYard\Mow\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.pdb
+E:\ScheduPay\Notifications\bin\Debug\netcoreapp3.1\NotificationsModule.deps.json
+E:\ScheduPay\Notifications\bin\Debug\netcoreapp3.1\NotificationsModule.dll
+E:\ScheduPay\Notifications\bin\Debug\netcoreapp3.1\NotificationsModule.pdb
+E:\ScheduPay\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.csproj.AssemblyReference.cache
+E:\ScheduPay\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.GeneratedMSBuildEditorConfig.editorconfig
+E:\ScheduPay\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.AssemblyInfoInputs.cache
+E:\ScheduPay\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.AssemblyInfo.cs
+E:\ScheduPay\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.csproj.CoreCompileInputs.cache
+E:\ScheduPay\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.dll
+E:\ScheduPay\Notifications\obj\Debug\netcoreapp3.1\NotificationsModule.pdb

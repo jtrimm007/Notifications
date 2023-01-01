@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Glip-Glop\\Dropbox (Personal)\\TrimYard\\Mow\\Notifications\\NotificationsModule.csproj": {}
+    "E:\\ScheduPay\\Notifications\\NotificationsModule.csproj": {}
   },
   "projects": {
-    "F:\\Glip-Glop\\Dropbox (Personal)\\TrimYard\\Mow\\Notifications\\NotificationsModule.csproj": {
+    "E:\\ScheduPay\\Notifications\\NotificationsModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Glip-Glop\\Dropbox (Personal)\\TrimYard\\Mow\\Notifications\\NotificationsModule.csproj",
+        "projectUniqueName": "E:\\ScheduPay\\Notifications\\NotificationsModule.csproj",
         "projectName": "NotificationsModule",
-        "projectPath": "F:\\Glip-Glop\\Dropbox (Personal)\\TrimYard\\Mow\\Notifications\\NotificationsModule.csproj",
+        "projectPath": "E:\\ScheduPay\\Notifications\\NotificationsModule.csproj",
         "packagesPath": "C:\\Users\\Joshua\\.nuget\\packages\\",
-        "outputPath": "F:\\Glip-Glop\\Dropbox (Personal)\\TrimYard\\Mow\\Notifications\\obj\\",
+        "outputPath": "E:\\ScheduPay\\Notifications\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -28,7 +28,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/jtrimm007/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
