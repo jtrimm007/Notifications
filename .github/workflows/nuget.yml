@@ -6,7 +6,7 @@ on:
       - "v*"
 
 env:
-  PROJECT_PATH: "./Notifications.csproj"
+  PROJECT_PATH: "./NotificationsModule.csproj"
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
   NUGET_SOURCE_URL: "https://nuget.pkg.github.com/jtrimm007/index.json"
 
