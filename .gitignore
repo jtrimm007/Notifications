@@ -223,3 +223,4 @@ machine-learning/tutorials/**/MovieRecommenderModel.zip
 /azure/sdk-identity-resources-storage/Properties/launchSettings.json
 obj/Debug/netcoreapp3.1/NotificationsModule.assets.cache
 obj/Debug/netcoreapp3.1/NotificationsModule.GeneratedMSBuildEditorConfig.editorconfig
+bin/Debug/netcoreapp3.1/NotificationsModule.deps.json

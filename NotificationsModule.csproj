@@ -1,8 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <!-- <TargetFramework>netcoreapp3.1</TargetFramework> -->
+    <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>NotificationsModule</PackageId>
+    <Authors>jtrimm007</Authors>
+    <Company>ScheduPay</Company>
+    <PackageDescription>This is the Notifications framework</PackageDescription>
+    <RepositoryUrl>https://github.com/jtrimm007/Notifications</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
